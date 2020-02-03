@@ -1,5 +1,4 @@
 // Code your solution here
-// driversArr = ["Rusty", "Jordan", "Nick", "Ruth"]
 
 function findMatching(driversArr, search) {
     let searchResult = driversArr.filter(driver => {
